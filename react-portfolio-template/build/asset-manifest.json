@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dinesh-collab/portfolio/static/css/main.f034c905.css",
+    "main.js": "/dinesh-collab/portfolio/static/js/main.70c58c71.js",
+    "static/js/453.a1ad4bba.chunk.js": "/dinesh-collab/portfolio/static/js/453.a1ad4bba.chunk.js",
+    "static/media/dinesh2.png": "/dinesh-collab/portfolio/static/media/dinesh2.1b0970f70daed62e196e.png",
+    "static/media/js.png": "/dinesh-collab/portfolio/static/media/js.150f07a6f1e1302be858.png",
+    "static/media/bg-light.png": "/dinesh-collab/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/dinesh-collab/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/aws.png": "/dinesh-collab/portfolio/static/media/aws.56aedd24612deb1bec87.png",
+    "static/media/Angular.png": "/dinesh-collab/portfolio/static/media/Angular.4ae80b52f90fd6401c99.png",
+    "static/media/react.png": "/dinesh-collab/portfolio/static/media/react.89c9799fb106ca695f05.png",
+    "index.html": "/dinesh-collab/portfolio/index.html",
+    "main.f034c905.css.map": "/dinesh-collab/portfolio/static/css/main.f034c905.css.map",
+    "main.70c58c71.js.map": "/dinesh-collab/portfolio/static/js/main.70c58c71.js.map",
+    "453.a1ad4bba.chunk.js.map": "/dinesh-collab/portfolio/static/js/453.a1ad4bba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f034c905.css",
+    "static/js/main.70c58c71.js"
+  ]
+}
